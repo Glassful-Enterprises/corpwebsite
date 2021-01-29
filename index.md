@@ -4,4 +4,4 @@ layout: default
 
 ## Welcome to Glassful Enterprises, Inc.
 
-Bringing you innovations in social sharing of your favorite vapors, coming in 2022!
+New ways to share your glass with friends, coming in 2022!
